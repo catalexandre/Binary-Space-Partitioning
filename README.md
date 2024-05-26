@@ -35,4 +35,4 @@ To make the result more understandable however, I can show how the corridors cou
 
 ![](binary_space_partitioning1.gif)
 
-To see how this algorithm is implemented in a real scenario, you might want to check out my [multiplayer video game project](github/catalexandre/Mutliplayer-Game-Project).
+To see how this algorithm is implemented in a real scenario, you might want to check out my [multiplayer video game project](https://github.com/catalexandre/Mutliplayer-Game-Project).
